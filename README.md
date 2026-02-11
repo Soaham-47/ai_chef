@@ -74,7 +74,7 @@ Start the server:
 Bash
 
 ```
-npm start
+node index.js
 
 ```
 
