@@ -27,7 +27,6 @@ Chef Claude is a full-stack application that helps users decide what to cook bas
 ---
 
 ## 📂 Project Structure
-```text
 chef-claude/
 ├── client/           # React + Vite Frontend
 │   ├── src/
