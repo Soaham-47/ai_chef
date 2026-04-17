@@ -46,7 +46,7 @@ chef-claude/
 ### 1. Clone the repository
 
 git clone https://github.com/Soaham-47/ai_chef.git 
-cd chef-claude
+cd ai_chef_project
 
 ---
 
