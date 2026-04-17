@@ -27,6 +27,7 @@ Chef Claude is a full-stack application that helps users decide what to cook bas
 ---
 
 ## 📂 Project Structure
+<<<<<<< HEAD
 '''text
 chef-claude/
 ├── client/           # React + Vite Frontend
@@ -36,6 +37,14 @@ chef-claude/
     ├── index.js      # Main server logic
     ├── .env          # API Keys (Git ignored)
     └── package.json
+=======
+
+-chef-claude/
+- ├── client/           # React + Vite Frontend
+- └── server/           # Express.js Backend
+
+
+>>>>>>> 1146394827f00109d6768d4c817723d6385b40f8
 ---
 
 ## 📦 Installation & Setup
@@ -46,7 +55,7 @@ Bash
 
 ```
 git clone [https://github.com/Soaham-47/first-react.git](https://github.com/Soaham-47/first-react.git)
-cd first-react
+cd client
 
 ```
 

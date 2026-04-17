@@ -3,6 +3,7 @@
 
 # Environment Variables / Secrets
 **/.env
+**/.venv
 
 # Build outputs
 client/dist/
