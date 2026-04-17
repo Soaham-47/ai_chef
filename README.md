@@ -45,7 +45,7 @@ chef-claude/
 
 ### 1. Clone the repository
 
-git clone https://github.com/Soaham-47/first-react.git  
+git clone https://github.com/Soaham-47/ai_chef.git 
 cd chef-claude
 
 ---
